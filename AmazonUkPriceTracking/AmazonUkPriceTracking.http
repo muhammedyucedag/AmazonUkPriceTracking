@@ -1,0 +1,6 @@
+@AmazonUkPriceTracking_HostAddress = http://localhost:5160
+
+GET {{AmazonUkPriceTracking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

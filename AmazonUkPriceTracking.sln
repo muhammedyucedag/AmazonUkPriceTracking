@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonUkPriceTracking", "AmazonUkPriceTracking\AmazonUkPriceTracking.csproj", "{94225D97-FF13-4300-9822-F848F56DFA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94225D97-FF13-4300-9822-F848F56DFA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94225D97-FF13-4300-9822-F848F56DFA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94225D97-FF13-4300-9822-F848F56DFA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94225D97-FF13-4300-9822-F848F56DFA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
