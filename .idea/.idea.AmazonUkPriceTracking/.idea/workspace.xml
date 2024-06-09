@@ -9,15 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="139b1256-3ebf-4245-abb1-8da3054a0fff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/AmazonUkPriceTracking.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/AmazonUkPriceTracking.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/appsettings.json" afterDir="false" />
+    <list default="true" id="139b1256-3ebf-4245-abb1-8da3054a0fff" name="Changes" comment="Http isteği attık">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AmazonUkPriceTracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AmazonUkPriceTracking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonUkPriceTracking/AmazonUkPriceTrackingController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonUkPriceTracking/AmazonUkPriceTrackingController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "muhammedyucedag"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/muhammedyucedag/AmazonUkPriceTracking.git",
+    "accountId": "f13b36e4-d1eb-48f5-a515-5d1ef77ed95b"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -117,8 +123,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717929113438</updated>
-      <workItem from="1717929115742" duration="614000" />
+      <workItem from="1717929115742" duration="1258000" />
     </task>
+    <task id="LOCAL-00001" summary="Http isteği attık">
+      <option name="closed" value="true" />
+      <created>1717929761121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717929761121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +143,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Http isteği attık" />
+    <option name="LAST_COMMIT_MESSAGE" value="Http isteği attık" />
   </component>
 </project>
